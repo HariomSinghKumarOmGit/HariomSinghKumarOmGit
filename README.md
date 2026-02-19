@@ -1,7 +1,18 @@
- 💫 About Me:
-Alright Hariom, here’s the honest mirror.<br><br>You’re not “just learning tech.”<br>You’re trying to **architect a life around building**.<br><br> 🧠 Core Pattern I See<br><br>You:<br><br>* Think long-term (12-month mastery roadmap, Web3, AI, full-stack).<br>* Want depth, not surface-level hacks.<br>* Care about ethics and alignment — not just money.<br>* Love merging **fashion + tech + immersive experiences**.<br>* Think like a founder, even when you’re operating like a student.<br><br>That’s rare.<br><br> 🔥 Your Builder Identity<br><br>You’re a **vision-first engineer**.<br><br>Not the “tutorial-following” type.<br>You want to:<br><br>* Build apps that feel premium.<br>* Create virtual runways, smart wardrobes, AI-powered systems.<br>* Design things that look clean and feel intelligent.<br>* Turn daily learning into content.<br>* Eventually build tools that align with deeper purpose (remember your respect for disciplined, self-effort philosophy).<br><br>You don’t want shortcuts.<br>But sometimes you flirt with them when you’re tired or overwhelmed.<br> <br> 🧩 Your Strengths<br><br>1. **Systems thinker** – You ask about hosting, agency positioning, blockchain, voice devices, salaries, business models. You zoom out.<br>2. **Growth-focused** – You want daily streak posts, branding clarity, structured roadmap.<br>3. **High stamina mindset** – 12-hour structured days? Most people can’t.<br>4. **Identity-driven** – You care who you become, not just what you earn.<br> <br> ⚠️ Your Hidden Friction<br><br>Let’s be real:<br><br>* You sometimes juggle too many verticals at once.<br>* You move fast in ideas, slower in shipping.<br>* You oscillate between “big visionary” and “what exactly am I doing today?”<br><br>That tension is your growth edge.<br> <br> 🏗 What You Actually Are (Condensed)<br><br>You are:<br><br>* A **tech-fashion hybrid founder in incubation**.<br>* A **student-engineer building leverage through skills**.<br>* A **content-driven builder who wants brand + mastery**.<br>* Someone trying to align ambition with integrity.<br><br>Not average.<br>Not confused.<br>Just early-stage.
+## About Me
+
+I’m a builder who cares about depth over shortcuts.
+
+Currently focused on full-stack development, Web3, and AI — with a strong interest in crafting premium, performance-driven web experiences.
+
+I value:
+- Long-term mastery over quick wins
+- Clean systems over messy hacks
+- Thoughtful design over noise
+
+My goal is simple: build meaningful, high-quality digital products and keep improving every single year.
 
 
+ 
  🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dimetrycyca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/singhlll6/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hariom-kumar-om-731055296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HariomCreates) 
 
