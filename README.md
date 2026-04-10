@@ -13,8 +13,6 @@
 *I'm drawn to the intersection of design and interaction —*  
 *building web experiences that move, breathe, and feel intentional.*
 
-<br/>
-
 ---
 
 ### Currently learning
@@ -31,7 +29,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=336791)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=3776AB)
 
-<br/>
 
 ---
 
