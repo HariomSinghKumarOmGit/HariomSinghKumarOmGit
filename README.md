@@ -17,7 +17,7 @@
 
 ### Currently learning
 
-`GSAP` &nbsp;&nbsp; `Three.js` &nbsp;&nbsp; `Next.js` &nbsp;&nbsp; `Local AI / LLMs`
+`GSAP` &nbsp;&nbsp; `Three.js` &nbsp;&nbsp; `Next.js` &nbsp;&nbsp; `Local AI ` `LLMs` &nbsp;&nbsp; `Power bi` &nbsp;&nbsp;
 
 ---
 
