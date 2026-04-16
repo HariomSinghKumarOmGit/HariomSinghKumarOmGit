@@ -4,7 +4,7 @@
 
 <br/> 
 
-# Hariom
+# Hariom Singh
 
 **Self-taught developer** &nbsp;·&nbsp; India 🇮🇳
 
